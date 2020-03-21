@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605167389893",
+    "firebase_url": "https://techbee-29f7b.firebaseio.com",
+    "project_id": "techbee-29f7b",
+    "storage_bucket": "techbee-29f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605167389893:android:334fe39a4962dcf505b4ac",
+        "android_client_info": {
+          "package_name": "com.example.techbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605167389893-h6f6brv7lntadg9vna7q3pk9bebi18k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techbee",
+            "certificate_hash": "b6b8f569e540c2f7aa58327ff5b14c39e1c14b78"
+          }
+        },
+        {
+          "client_id": "605167389893-fu9mepcbshileo3o0c6dkrk2bka7csrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkvJIK_5y-7Ozd8nyrmvKgqYNLmTtEys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605167389893-fu9mepcbshileo3o0c6dkrk2bka7csrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
